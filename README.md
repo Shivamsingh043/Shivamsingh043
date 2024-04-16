@@ -11,9 +11,13 @@ looking for opportunity
   :Programming language :- JAVA
   <br>
   :Mysql
-  :DSA
+  <br>
+  :DSA(ARRAY, STRING, SEARCHING, SORTING, LINKEDLIST)
+  <br>
   :OOPs
+  <br>
   :JDBC(Java Database connectivity)
+  <br>
   :Version control - Git, GitHub
 
 
