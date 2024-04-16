@@ -1,17 +1,19 @@
 
 # Hi, I'm Shivam! 👋
-i am a third year btech student.
 
 ## 🚀 About Me
-I'm learning devops and i want to contribute
-in open source.
-i am available to collaborate in projects.
+looking for opportunity
 
 
 
 
 ## 🛠 Skills:
-  java, python, git, devops
+  :Programming language :- JAVA
+  :Mysql
+  :DSA
+  :OOPs
+  :JDBC(Java Database connectivity)
+  :Version control - Git, GitHub
 
 
 
