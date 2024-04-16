@@ -9,6 +9,7 @@ looking for opportunity
 
 ## 🛠 Skills:
   :Programming language :- JAVA
+  <br>
   :Mysql
   :DSA
   :OOPs
